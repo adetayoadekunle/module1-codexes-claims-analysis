@@ -1,5 +1,5 @@
 # Documenting my Work
-I had to add low_memory error due to issue of uploading inpatient data in google collab notebook
+I had to add low_memory error due to issue of uploading inpatient data in google colab notebook
 I had to show the first few rows of the dataset
 Found columns that relate to ICD, DRG, and HCPCS Codes
 I then found missing codes for ICD and DRG except for HCPCS
